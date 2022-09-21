@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CoderByte.iml" filepath="$PROJECT_DIR$/CoderByte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoderByte-Challenges.iml" filepath="$PROJECT_DIR$/CoderByte-Challenges.iml" />
     </modules>
   </component>
 </project>
