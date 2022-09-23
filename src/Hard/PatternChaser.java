@@ -19,7 +19,7 @@ import java.util.Scanner;
  * You must always return the longest pattern possible.
  *
  * @author Berat Sercan Çelik
- * */
+ */
 
 
 public class PatternChaser {

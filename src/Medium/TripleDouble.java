@@ -17,7 +17,7 @@ import java.util.Scanner;
 * If this isn't the case, return 0.
 *
 * @author Berat Sercan Çelik
-* */
+*/
 
 public class TripleDouble {
     public static int TripleDouble(int num1, int num2) {
